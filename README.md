@@ -22,4 +22,4 @@
 3. Run development server
    `npm run dev`
 
-4. Open website at http://localhost:5173/ (Default)
+4. Open website at https://sentibuddy-fwm4-ik9ylo08i-robinmanuels-projects.vercel.app
